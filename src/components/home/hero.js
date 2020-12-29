@@ -23,7 +23,7 @@ const items = [
 
 function AppHero() {
   return (
-    <div id="hero" className="heroBlock">
+    <div id="inicio" className="heroBlock">
       <Carousel>
         {items.map(item => {
           return (
