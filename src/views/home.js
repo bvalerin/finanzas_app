@@ -8,7 +8,7 @@ import AppFaq from '../components/home/faq';
 import AppPricing from '../components/home/pricing';
 import AppContact from '../components/home/contact';
 
-function AppHome() {
+const AppHome = () => {
   return (
     <div className="main">
       <AppHero/>

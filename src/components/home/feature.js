@@ -16,16 +16,16 @@ function AppFeature() {
     <div id="beneficios" className="block featureBlock bgGray">
       <div className="container-fluid">
         <div className="titleHolder">
-          <h2>Key Features and Benefits</h2>
-          <p>Obcaecati consequatur libero repudiandae, aperiam itaque laborum!</p>
+          <h2>Caracteristicas clave y beneficios</h2>
+          <p>El principal beneficio es que te ayuda a mejorar tu economia</p>
         </div>
         <Row gutter={[16, 16]}>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             <Card
               hoverable
-              cover={<img alt="Modern Design" src={image1} />}
+              cover={<img alt="Diseño moderno" src={image1} />}
             >
-              <Meta title="Modern Design" />
+              <Meta title="Diseño moderno" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -33,7 +33,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image2} />}
             >
-              <Meta title="Clean and Elegant" />
+              <Meta title="Limpio y elegante" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -41,7 +41,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image3} />}
             >
-              <Meta title="Great Support" />
+              <Meta title="Soporte Disponible" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -49,7 +49,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image4} />}
             >
-              <Meta title="Easy to customise" />
+              <Meta title="Personalizable" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -57,7 +57,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image5} />}
             >
-              <Meta title="Unlimited Features" />
+              <Meta title="Innovacion" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
@@ -65,7 +65,7 @@ function AppFeature() {
               hoverable
               cover={<img alt="Test" src={image6} />}
             >
-              <Meta title="Advanced Options" />
+              <Meta title="Caracteristicas Avanzadas" />
             </Card>
           </Col>
         </Row>
