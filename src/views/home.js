@@ -16,8 +16,6 @@ const AppHome = () => {
       <AppFeature/>
       <AppWorks/>
       <AppFaq/>
-      <AppPricing/>
-      <AppContact/>
     </div>
   );
 }

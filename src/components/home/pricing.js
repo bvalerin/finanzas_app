@@ -49,7 +49,7 @@ function AppPricing() {
     <div id="precio" className="block pricingBlock bgGray">
       <div className="container-fluid">
         <div className="titleHolder">
-          <h2>Choose a plan to fit your needs</h2>
+          <h2>Elije el plan que mejor se adapte a tus necesidades</h2>
           <p>Debitis itaque minima dolorum fuga aperiam inventore, quidem enim</p>
         </div>
         <List
