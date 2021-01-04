@@ -43,9 +43,9 @@ const AppHeader = () => {
             visible={visible}
           >
             <Anchor targetOffset="65">
-              <Link href="#inicio" title="Inicio" />
-              <Link href="#acerca" title="Acerca" />
-              <Link href="#beneficios" title="Beneficios" />
+              <Link onClick={onClose} href="#inicio" title="Inicio" />
+              <Link onClick={onClose} href="#acerca" title="Acerca" />
+              <Link onClick={onClose} href="#beneficios" title="Beneficios" />
               <Link href="#como_funciona" title="Como funciona?" />
               <Link href="#faq" title="FAQ" />
               <Link href="#precio" title="Precio" />

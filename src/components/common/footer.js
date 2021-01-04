@@ -1,8 +1,7 @@
 import React from 'react';
-
 import { BackTop } from 'antd';
 
-function AppFooter() {
+const AppFooter = () => {
   return (
     <div className="container-fluid">
       <div className="footer">
